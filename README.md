@@ -25,7 +25,7 @@ pip install synity
 Or add directly to your project:
 
 ```bash
-git clone https://github.com/your-org/synity
+git clone https://github.com/Srujanrana07/synity
 cd synity
 pip install -r requirements.txt
 ```
